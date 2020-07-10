@@ -1,0 +1,2 @@
+rootProject.name='wineworld'
+include ':app', ':rjframe', ':rjwidget'
